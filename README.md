@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaphaelPorciuncula
-- 👀 I’m interested in Front End
-- 🌱 I’m currently learning HTML5 and CSS
+- 👀 I’m interested in Back End
+- 🌱 I’m currently learning C and JAva
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
